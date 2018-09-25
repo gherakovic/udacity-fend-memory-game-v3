@@ -22,7 +22,7 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Acknowledgements:
 
-Project coaches
-Matthew Cranford Blog
-Student Coach Julian [ABND]
-Udacity FEND Webinar - Project 3 Walkthrough by Ryan
+* Project coaches
+* Matthew Cranford Blog
+* Student Coach Julian [ABND]
+* Udacity FEND Webinar - Project 3 Walkthrough by Ryan
