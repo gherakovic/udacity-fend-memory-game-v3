@@ -20,7 +20,9 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 # udacity-fend-memory-game
 
-Acknowledgements:
+## Acknowledgements:
 
 Project coaches
 Matthew Cranford Blog
+Student Coach Julian [ABND]
+Udacity FEND Webinar - Project 3 Walkthrough by Ryan
