@@ -26,4 +26,4 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 * Matthew Cranford Blog
 * Student Coach Julian [ABND]
 * Udacity FEND Webinar - Project 3 Walkthrough by Ryan
-# udacity-fend-arcade-game
+
